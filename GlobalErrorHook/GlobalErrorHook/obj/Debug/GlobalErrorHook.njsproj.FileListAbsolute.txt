@@ -1,0 +1,2 @@
+H:\git\GlobalErrorHook\GlobalErrorHook\GlobalErrorHook\obj\Debug\GlobalErrorHook.njsprojAssemblyReference.cache
+H:\git\GlobalErrorHook\GlobalErrorHook\GlobalErrorHook\bin\Microsoft.NodejsTools.WebRole.dll
